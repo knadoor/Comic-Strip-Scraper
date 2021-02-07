@@ -1,5 +1,5 @@
 # Comic Strip Downloader
-This is a web-scraper I wrote using Python to practice web-scraping. This script was written for educational purposes only.
+This is a web-scraper I wrote using Python to practice web-scraping using the Beautiful Soup library. This script was written for educational purposes only.
 
 The 'bot' is able to download Dilbert comic strips.
 
