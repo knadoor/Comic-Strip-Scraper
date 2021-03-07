@@ -1,4 +1,4 @@
-# Comic Strip Scraper
+# Comic Strip Web Scraper
 This is a 'server friendly' web-scraper I wrote using Python to practice web-scraping using the Beautiful Soup library. It contains code to ensure the server is not bombarded with requests and any comics that fail to download due to a remote server disconnection, it automatically picks up where it left off after the timeout expires.
 
 This script was written for educational purposes only.
